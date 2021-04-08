@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Base Utils</string>
+
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="title_loading">Loading&#8230;</string>
+    <string name="txt_wait">Please wait</string>
+</resources>

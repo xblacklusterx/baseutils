@@ -1,0 +1,7 @@
+<resources>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+
+    <string name="title_loading">Cargando&#8230;</string>
+    <string name="txt_wait">Espere por favor</string>
+</resources>
